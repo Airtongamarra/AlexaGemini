@@ -1,7 +1,7 @@
 # Alexa GeminiChat
 ### Modelo de Skill Alexa para integrar o Google Gemini nos dispositivos Alexa
 
-**Me siga [Scintilla Hub](https://www.instagram.com/airtongamarra7/) no Instagram**
+**Me siga [Airton Gamarra](https://www.instagram.com/airtongamarra7/) no Instagram**
 
 ## Requisitos
 * Com uma conta Google gere uma chave de autenticação API site da [Google AI Developer](https://ai.google.dev/). Copie e guarde a chave, elá só será visível no instante da criação.
